@@ -1,4 +1,6 @@
-## EDA é a sigla para Análise Exploratória de Dados (do inglês, Exploratory Data Analysis)
+# Análise Exploratória de Dados
+
+EDA é a sigla para Análise Exploratória de Dados (do inglês, Exploratory Data Analysis)
 
 É um processo fundamental e uma das primeiras etapas de qualquer projeto de análise ou aprendizado de máquina. 
 O principal objetivo da EDA é ter uma compreensão profunda do conjunto de dados, explorando suas características, estrutura e qualidade, antes de aplicar técnicas estatísticas ou criar modelos preditivos.
